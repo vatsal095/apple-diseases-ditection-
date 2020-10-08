@@ -1,4 +1,4 @@
-# apple-diseases-ditection
+# Apple-diseases-ditection
 Detect disease in apple fruit.<br>
 
 # Introduction 
